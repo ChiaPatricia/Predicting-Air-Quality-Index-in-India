@@ -8,9 +8,9 @@ Air pollution has become one of the largest environmental health threats around 
 
 # Data Source
 
-Link of data source: https://www.kaggle.com/rohanrao/air-quality-data-in-india
-Link of google drive files: https://drive.google.com/drive/folders/1__L1wkqn_bNUYqnrGgfSCeMvaKmzIHJ7?usp=sharing
-Link of google colab: https://colab.research.google.com/drive/1VTzibDmWUCpjMejaE4oSgzyZejCQ-gox?usp=sharing
+* Link of data source: https://www.kaggle.com/rohanrao/air-quality-data-in-india
+* Link of google drive files: https://drive.google.com/drive/folders/1__L1wkqn_bNUYqnrGgfSCeMvaKmzIHJ7?usp=sharing
+* Link of google colab: https://colab.research.google.com/drive/1VTzibDmWUCpjMejaE4oSgzyZejCQ-gox?usp=sharing
 
 We will use a dataset in Kaggle which deals with air quality in India from 2015 to 2020, across various cities and stations. The variables include PM2.5, PM10, Air Quality Index (AQI), and gas concentrations for NO, NO2, CO, etc. There are 16 variables in total.
 

@@ -45,12 +45,12 @@ PM2.5 appears to be the most important feature in determining AQI, both in terms
 
 
 ## Behind the data: air quality condition in India
-### Seasonality:
+### Seasonality
 After we did research on India’s air quality, we found out that contributions from stubble burning and household emissions from cooking and space heating were significant fractions of the pollution pie, which can explain why AQI started to increase dramatically from September. Harvesting seasons which start around September could result in a significant increase in the number of fires; In the following months, the contribution from household emissions (including domestic cooking, space heating, water heating, and lighting) primarily drove poor air quality with the kick-in of winters.
 Space heating and stubble burning mainly contribute to the production of PM2.5, which can partly explain the importance of PM2.5 in predicting AQI.
-### Data Collection:
+### Data Collection
 After 2018, BJP (a political party) came into power after the congress. They came up with a lot of programs that ensure data collection by government agencies, which explains why we can see a significant increase in the number of cities/stations in our dataset after 2018.
-### Emissions are the main cause:
+### Emissions are the main cause
 Emissions from stubble burning, household heating, vehicles, and power plants made up the majority of the air pollutant in India. The spatial and temporal patterns we see in the analysis are deeply knitted with the emissions.
 ## Challenges
 ### Hyperparameter tuning 

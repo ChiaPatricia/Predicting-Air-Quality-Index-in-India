@@ -16,11 +16,9 @@ We will use a dataset in Kaggle which deals with air quality in India from 2015 
 
 3 datasets are planned to be used:
 
-city_day.csv: day-level air quality data for 26 cities from 2015 to 2020. After a quick clean-up, approximately 20,000 observations can be used for analysis.
-
-station_day.csv: day-level air quality data for 110 stations from 2015 to 2020. Approximately 70,000 observations are valid to be used.
-
-stations.csv: the city and state information for each station.
+ * `city_day.csv`: day-level air quality data for 26 cities from 2015 to 2020. After a quick clean-up, approximately 20,000 observations can be used for analysis.
+ * `station_day.csv`: day-level air quality data for 110 stations from 2015 to 2020. Approximately 70,000 observations are valid to be used.
+ * `stations.csv`: the city and state information for each station.
 
 
 # Model Building
